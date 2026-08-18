@@ -156,8 +156,8 @@ curl -X DELETE "http://localhost:8081/usuarios?email=updated@example.com"
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Dyogo199/CrudifyGerenciadordeUsuariosEmSpring-Boot.git
-cd CrudifyGerenciadordeUsuariosEmSpring-Boot/Usuario
+git clone https://github.com/Dyogo199/crudify-spring-boot-api.git
+cd crudify-spring-boot-api/Usuario
 ```
 
 ### Run with Maven Wrapper
